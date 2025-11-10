@@ -12,7 +12,6 @@ A full-stack web application for managing car rentals with user and admin access
 
 ## Project Structure
 car-rental-system/
-│
-├── client/         # React Frontend
-├── server/         # Node.js Backend
-└── database/       # SQL Schema
+- client/         # React Frontend
+- server/         # Node.js Backend
+- database/       # SQL Schema
